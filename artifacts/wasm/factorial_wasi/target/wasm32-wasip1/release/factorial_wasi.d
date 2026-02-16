@@ -1,0 +1,1 @@
+/Users/dionispls/PycharmProjects/research/artifacts/wasm/factorial_wasi/target/wasm32-wasip1/release/factorial_wasi.wasm: /Users/dionispls/PycharmProjects/research/artifacts/wasm/factorial_wasi/src/main.rs
